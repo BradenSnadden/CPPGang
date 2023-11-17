@@ -7,9 +7,7 @@ int main(){
 
     problem h;
 
-    vector<int> b = h.SAP(8,6);
-
-    cout << b[0] << "   " << b[1] << endl;
+    h.gravity();
     
     return 0;
 
