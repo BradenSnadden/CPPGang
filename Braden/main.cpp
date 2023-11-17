@@ -7,7 +7,7 @@ int main(){
 
     problem h;
 
-    h.gravity();
+    h.SAP(1000000,1000000);
     
     return 0;
 
